@@ -52,10 +52,6 @@ body{
     margin-left: 20px;
 }
 
-.cont-2{
-    display: flex;
-}
-
 .quant{
     padding-left: 12px;
     padding-right: 12px;
@@ -67,4 +63,8 @@ body{
 
 .notify{
     color: red;
+}
+
+.total{
+    margin-top: 20px;
 }

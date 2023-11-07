@@ -49,7 +49,7 @@ const App = () => {
                     <label class="quant" for="">{cart}</label>
                     <button class="add" onClick={add}>+</button>
                     <button class="add-car" onClick={addCarrinho}>Adicionar ao Carrinho</button>
-                    <p>Total:{total.toFixed(2)}</p>
+                    <p class="total">Total:{total.toFixed(2)}</p>
             
                 </div>
             </div>
